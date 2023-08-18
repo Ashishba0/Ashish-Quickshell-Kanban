@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ashish-Quickshell-Kanban/static/css/main.aa964d33.css",
+    "main.js": "/Ashish-Quickshell-Kanban/static/js/main.e7cc0cf9.js",
+    "static/js/787.0dc1bfd1.chunk.js": "/Ashish-Quickshell-Kanban/static/js/787.0dc1bfd1.chunk.js",
+    "index.html": "/Ashish-Quickshell-Kanban/index.html",
+    "main.aa964d33.css.map": "/Ashish-Quickshell-Kanban/static/css/main.aa964d33.css.map",
+    "main.e7cc0cf9.js.map": "/Ashish-Quickshell-Kanban/static/js/main.e7cc0cf9.js.map",
+    "787.0dc1bfd1.chunk.js.map": "/Ashish-Quickshell-Kanban/static/js/787.0dc1bfd1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa964d33.css",
+    "static/js/main.e7cc0cf9.js"
+  ]
+}
